@@ -1,0 +1,125 @@
+Cycle 1:
+Environment:
+Temperature: 23
+Water Level: 198
+Plants:
+Rose: Population = 207
+Animals:
+Rabbit: Population = 150
+
+Cycle 2:
+Environment:
+Temperature: 23
+Water Level: 196
+Plants:
+Rose: Population = 214
+Animals:
+Rabbit: Population = 158
+
+Cycle 1:
+Environment:
+Temperature: 24
+Water Level: 199
+Plants:
+Rose: Population = 205
+Animals:
+Rabbit: Population = 155
+
+Cycle 2:
+Environment:
+Temperature: 23
+Water Level: 247
+Plants:
+Rose: Population = 216
+Animals:
+Rabbit: Population = 159
+
+Cycle 3:
+Environment:
+Temperature: 21
+Water Level: 245
+Plants:
+Rose: Population = 222
+Animals:
+Rabbit: Population = 162
+
+Cycle 1:
+Environment:
+Temperature: 27
+Water Level: 201
+Plants:
+Rose: Population = 214
+Animals:
+Rabbit: Population = 156
+Pig: Population = 101
+
+Cycle 2:
+Environment:
+Temperature: 27
+Water Level: 200
+Plants:
+Rose: Population = 229
+Animals:
+Rabbit: Population = 164
+Pig: Population = 115
+
+Cycle 3:
+Environment:
+Temperature: 27
+Water Level: 249
+Plants:
+Rose: Population = 239
+Animals:
+Rabbit: Population = 164
+Pig: Population = 116
+
+Cycle 4:
+Environment:
+Temperature: 27
+Water Level: 247
+Plants:
+Rose: Population = 250
+Animals:
+Rabbit: Population = 170
+Pig: Population = 120
+
+Cycle 1:
+Environment:
+Temperature: 23
+Water Level: 201
+Plants:
+Rose: Population = 203
+Animals:
+Rabbit: Population = 157
+Pig: Population = 113
+
+Cycle 2:
+Environment:
+Temperature: 25
+Water Level: 202
+Plants:
+Rose: Population = 217
+Animals:
+Rabbit: Population = 159
+Pig: Population = 113
+
+Cycle 3:
+Environment:
+Temperature: 26
+Water Level: 204
+Plants:
+Rose: Population = 222
+Animals:
+Rabbit: Population = 173
+Pig: Population = 125
+
+Cycle 4:
+Environment:
+Temperature: 28
+Water Level: 203
+Plants:
+Rose: Population = 222
+Animals:
+Rabbit: Population = 176
+Pig: Population = 128
+

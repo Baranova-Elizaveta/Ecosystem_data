@@ -1,0 +1,7 @@
+temperature=25
+humidity=80
+waterLevel=200
+plant=Rose,200,50
+plant=Pion,30000,12
+animal=Rabbit,150,70,0
+animal=Pig,100,12,0

@@ -1,0 +1,21 @@
+Cycle 1:
+Environment:
+Temperature: 23
+Water Level: 150
+Plants:
+Rose: Population = 120
+Oak: Population = 300
+Animals:
+Rabbit: Population = 80
+Deer: Population = 40
+
+Cycle 2:
+Environment:
+Temperature: 21
+Water Level: 145
+Plants:
+Rose: Population = 130
+Oak: Population = 310
+Animals:
+Rabbit: Population = 85
+Deer: Population = 45

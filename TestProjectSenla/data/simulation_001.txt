@@ -1,0 +1,10 @@
+# Environment
+temperature=25,humidity=80,waterLevel=200
+
+# Plants
+Plant,Grass,100,10
+Plant,Bush,50,5
+
+# Animals
+Animal,Rabbit,20,15,5
+Animal,Deer,10,20,8
